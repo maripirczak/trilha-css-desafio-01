@@ -31,7 +31,6 @@ body {
     padding: 5px;
 }
 
-
 .banner-content .logo  {
     width: 228px;
     height: 228px;
@@ -142,6 +141,7 @@ section {
     border-top: 1px solid #33A8DB80;
     border-bottom: 1px solid #33A8DB80;
     color: #fff;
+    text-shadow: 3px 2px #33A8DB;
     padding: 200px 200px 0 200px;
 }
 
